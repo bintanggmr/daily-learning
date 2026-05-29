@@ -1,0 +1,12 @@
+# Abaikan file konfigurasi sensitif (berisi password/key)
+.env
+*.local
+
+# Abaikan folder log aplikasi
+/logs/
+*.log
+
+# Abaikan file sampah dari OS atau Code Editor
+.vscode/
+.idea/
+Thumbs.db

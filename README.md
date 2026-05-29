@@ -4,3 +4,7 @@
    ## Hari 1
    - Berhasil melakukan konfigurasi identitas Git global.
    - Sinkronisasi email lokal dengan GitHub.
+
+   ## Hari 2
+   - Belajar mekanisme `.gitignore` untuk menyaring file sampah dan menjaga keamanan data sensitif.
+   - Memahami cara kerja pola pencocokan (matching patterns) di Git.
