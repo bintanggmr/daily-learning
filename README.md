@@ -12,3 +12,7 @@
    ## Hari 3
    - Belajar merapikan riwayat Git menggunakan teknik `commit amending` (`git commit --amend`).
    - Memahami cara memperbaiki pesan commit terakhir atau menambahkan file yang tertinggal tanpa membuat commit baru.
+
+   ## Hari 4
+   - Belajar manajemen percabangan (Branching Workflow) di Git.
+   - Memahami cara membuat branch baru, berpindah branch, dan mensimulasikan pengembangan fitur secara paralel agar kode utama tetap aman.
