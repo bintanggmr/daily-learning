@@ -16,3 +16,7 @@
    ## Hari 4
    - Belajar manajemen percabangan (Branching Workflow) di Git.
    - Memahami cara membuat branch baru, berpindah branch, dan mensimulasikan pengembangan fitur secara paralel agar kode utama tetap aman.
+
+   ## Hari 5
+   - Belajar standardisasi pesan commit menggunakan aturan Conventional Commits.
+   - Memahami pentingnya prefix seperti `feat:`, `fix:`, `docs:`, `style:`, dan `refactor:` untuk keterbacaan riwayat proyek yang profesional.
